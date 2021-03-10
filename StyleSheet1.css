@@ -1,0 +1,56 @@
+﻿body {
+    color:darkgreen;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+    background-color:forestgreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:120%;
+    border:2px solid powderblue;
+    padding: 10px;
+    margin:10px;
+}
+
+p{
+    text-align: center;
+}
+
+.btn-group button {
+    text-align:right;
+}
+
+.button{
+    
+    text-align:right;
+    color:dimgrey;
+    border:dotted;
+}
+
+.card {
+    width: 400px;
+    float:right;
+}
+
+.carousel{
+    background-color:blueviolet;
+}
+
+.carousel-inner img {
+    width: 50%;
+    height: 50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-caption h3 {
+    background-color:azure;
+    color: aqua;
+}
+
+.carousel-caption p {
+    background-color: azure;
+    color: aqua;
+}
