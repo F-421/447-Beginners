@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vmp7VtkSNSaCu/0WXrGbYb5UJHpQqOAsM0xwRbPSaBTiYWMO1ND2QBTYAFFNA5pR9PPgdc4jtRFS0J1MJTn9UA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\College Student #F19\\Documents\\College Stuff\\CMSC 447\\Work1\\447-Beginners\\tests\\EdgeDriverTest1\\EdgeDriverTest1\\EdgeDriverTest1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\College Student #F19\\.nuget\\packages\\mstest.testadapter\\2.1.2\\mstest.testadapter.2.1.2.nupkg.sha512",
+    "C:\\Users\\College Student #F19\\.nuget\\packages\\mstest.testframework\\2.1.2\\mstest.testframework.2.1.2.nupkg.sha512",
+    "C:\\Users\\College Student #F19\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\College Student #F19\\.nuget\\packages\\selenium.webdriver.chromedriver\\89.0.4389.2300\\selenium.webdriver.chromedriver.89.0.4389.2300.nupkg.sha512",
+    "C:\\Users\\College Student #F19\\.nuget\\packages\\selenium.webdriver.microsoftdriver\\17.17134.0\\selenium.webdriver.microsoftdriver.17.17134.0.nupkg.sha512"
+  ],
+  "logs": []
+}
